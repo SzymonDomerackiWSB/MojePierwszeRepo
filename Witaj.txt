@@ -11,3 +11,6 @@ PS. korzystam z Ridera do pushy i innych gitowych rzeczy, ale znam komendy:
 - git add .                 -- wiem, . daje wszystko, mógłbym pojedyńczymi plikami dodawać
 - git commit -m "<komentarz commita>"
 - git push origin <nazwa brancha z checkout'a>
+
+Domeracki: moja zmiana dla zadania 9 
+co prawda straciłem dostęp do wielu moich repo, ale głównie to były repozytoria do ćwiczeń, nie licząc aplikacji do losowania w Electronie, ale to i tak jest public repo więc mogę odzyskać kod
