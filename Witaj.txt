@@ -12,5 +12,10 @@ PS. korzystam z Ridera do pushy i innych gitowych rzeczy, ale znam komendy:
 - git commit -m "<komentarz commita>"
 - git push origin <nazwa brancha z checkout'a>
 
+Guc: moje zmiany 
+
+Kiedy Szymon walczył z kontem na githubie, ja zdecydowałem się na zrobienie mu axolotla na szydełku
+Żeby się tak nie stresował 
+
 Domeracki: moja zmiana dla zadania 9 
 co prawda straciłem dostęp do wielu moich repo, ale głównie to były repozytoria do ćwiczeń, nie licząc aplikacji do losowania w Electronie, ale to i tak jest public repo więc mogę odzyskać kod
