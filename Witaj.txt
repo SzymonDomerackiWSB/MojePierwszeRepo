@@ -1,0 +1,13 @@
+﻿Witaj w moim wymiarze(dobra, to tylko repo)
+
+Ciekawa sytuacja - nie mogłem zalogować się na moje główne konto w githubie, bo po bricku telefonu(ajfon...) zepsuło mi się 2FA a nie mogłem znaleźć recovery code.
+
+Więc zrobiłem nowe konto, ale w międzyczasie szukając wszędzie tego jednego zdjęcia z recovery code znalazłem coś innego
+
+c.d.n. w drugim pliku
+
+PS. korzystam z Ridera do pushy i innych gitowych rzeczy, ale znam komendy:
+- git checkout -b <nazwa nowego brancha>
+- git add .                 -- wiem, . daje wszystko, mógłbym pojedyńczymi plikami dodawać
+- git commit -m "<komentarz commita>"
+- git push origin <nazwa brancha z checkout'a>
