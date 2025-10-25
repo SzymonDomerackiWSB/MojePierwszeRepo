@@ -100,7 +100,7 @@ class Program
             }
         }
 
-        /*??*/ displayBoard;
+        return displayBoard;
     }
     
     static void DisplayBoard(char[,] board)
